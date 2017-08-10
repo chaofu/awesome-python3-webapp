@@ -1,0 +1,5 @@
+
+# 提交文件
+git add file
+git commit -m 
+git push -u origin master
